@@ -6,5 +6,6 @@ Features:
 
 Starting.. 
 
-App will call letters and respective number, typing the key 'N' the next number will apper, to finish type the key 'Q'. 
+App will call letters and respective number, type any key for next calling, numbers called will appers in a list sorted!
+Enjoy!
 
